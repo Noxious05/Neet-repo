@@ -1,0 +1,1709 @@
+{
+  "Top scorer (rank 100), DL, UR Male": {
+    "user_profile": {
+      "neet_rank": 100,
+      "category": "UR",
+      "domicile_state": "DL",
+      "gender": "MALE",
+      "pwd": false,
+      "course": "MBBS"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "college_id": 5,
+        "college_name": "AFMC Pune",
+        "college_state": "MH",
+        "college_type": "AFMC",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 813,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.8716,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -2.97,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 813 for UR AIQ \u2192 margin 87.2%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 2,
+        "college_id": 2,
+        "college_name": "Maulana Azad Medical College",
+        "college_state": "DL",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 148,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.2439,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 0.89,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 148 for UR AIQ \u2192 margin 24.4%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 3,
+        "college_id": 4,
+        "college_name": "Vardhman Mahavir Medical College",
+        "college_state": "DL",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 398,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.7182,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -1.22,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 398 for UR AIQ \u2192 margin 71.8%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 4,
+        "college_id": 6,
+        "college_name": "Madras Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 2022,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.9477,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -2.53,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 2022 for UR AIQ \u2192 margin 94.8%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 5,
+        "college_id": 11,
+        "college_name": "Bangalore Medical College",
+        "college_state": "KA",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 2130,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.9467,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -1.48,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 2130 for UR AIQ \u2192 margin 94.7%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 6,
+        "college_id": 16,
+        "college_name": "Grant Medical College Mumbai",
+        "college_state": "MH",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 2653,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.9588,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 1.13,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 2653 for UR AIQ \u2192 margin 95.9%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 7,
+        "college_id": 17,
+        "college_name": "BJ Medical College Pune",
+        "college_state": "MH",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 3352,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.9686,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -2.92,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 3352 for UR AIQ \u2192 margin 96.9%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 8,
+        "college_id": 7,
+        "college_name": "Stanley Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 4505,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.975,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 0.77,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 4505 for UR AIQ \u2192 margin 97.5%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 9,
+        "college_id": 21,
+        "college_name": "King George Medical University",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 4697,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.9755,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 3.36,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 4697 for UR AIQ \u2192 margin 97.5%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 10,
+        "college_id": 8,
+        "college_name": "Government Kilpauk Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 100,
+          "latest_closing_rank": 5156,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.9774,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 3.59,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 100 vs. 2024 R2 closing rank 5156 for UR AIQ \u2192 margin 97.7%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      }
+    ],
+    "metadata": {
+      "total_eligible_rows": 248,
+      "scored_buckets": 31,
+      "top_n_returned": 10,
+      "query_time_ms": 38.13
+    }
+  },
+  "Mid-tier (rank 12000), TN, OBC Male": {
+    "user_profile": {
+      "neet_rank": 12000,
+      "category": "OBC",
+      "domicile_state": "TN",
+      "gender": "MALE",
+      "pwd": false,
+      "course": "MBBS"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "college_id": 9,
+        "college_name": "Coimbatore Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 15550,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.191,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -1.15,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 15550 for UR STATE \u2192 margin 19.1%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 2,
+        "college_id": 24,
+        "college_name": "BRD Medical College Gorakhpur",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 15706,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1608,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 1.36,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 15706 for OBC AIQ \u2192 margin 16.1%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 3,
+        "college_id": 7,
+        "college_name": "Stanley Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 16239,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1731,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -1.46,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 16239 for OBC STATE \u2192 margin 17.3%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 4,
+        "college_id": 29,
+        "college_name": "Shyam Shah Medical College Rewa",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 19737,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3468,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.45,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 19737 for OBC AIQ \u2192 margin 34.7%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 5,
+        "college_id": 8,
+        "college_name": "Government Kilpauk Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 20964,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.35,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.81,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 20964 for OBC STATE \u2192 margin 35.0%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 6,
+        "college_id": 10,
+        "college_name": "Tirunelveli Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 24541,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.4276,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 2.76,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 24541 for UR STATE \u2192 margin 42.8%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 7,
+        "college_id": 14,
+        "college_name": "Kasturba Medical College Manipal",
+        "college_state": "KA",
+        "college_type": "DEEMED",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 20701,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3638,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 0.57,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 20701 for OBC AIQ \u2192 margin 36.4%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 8,
+        "college_id": 15,
+        "college_name": "JSS Medical College Mysore",
+        "college_state": "KA",
+        "college_type": "DEEMED",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 22697,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3944,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 2.26,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 22697 for UR AIQ \u2192 margin 39.4%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 9,
+        "college_id": 25,
+        "college_name": "Sarojini Naidu Medical College Agra",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "VERY_HIGH",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 13938,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.0986,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -3.29,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 13938 for OBC AIQ \u2192 margin 9.9%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 10,
+        "college_id": 30,
+        "college_name": "Gajra Raja Medical College Gwalior",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "VERY_HIGH",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 14397,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.0849,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.51,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 14397 for OBC AIQ \u2192 margin 8.5%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      }
+    ],
+    "metadata": {
+      "total_eligible_rows": 544,
+      "scored_buckets": 68,
+      "top_n_returned": 10,
+      "query_time_ms": 4.63
+    }
+  },
+  "Mid-tier (rank 12000), KA, OBC Male": {
+    "user_profile": {
+      "neet_rank": 12000,
+      "category": "OBC",
+      "domicile_state": "KA",
+      "gender": "MALE",
+      "pwd": false,
+      "course": "MBBS"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "college_id": 24,
+        "college_name": "BRD Medical College Gorakhpur",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 15706,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1608,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 1.36,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 15706 for OBC AIQ \u2192 margin 16.1%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 2,
+        "college_id": 13,
+        "college_name": "Karnataka Institute of Medical Sciences Hubli",
+        "college_state": "KA",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 18197,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.2884,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.53,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 18197 for UR STATE \u2192 margin 28.8%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 3,
+        "college_id": 29,
+        "college_name": "Shyam Shah Medical College Rewa",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 19737,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3468,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.45,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 19737 for OBC AIQ \u2192 margin 34.7%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 4,
+        "college_id": 12,
+        "college_name": "Mysore Medical College",
+        "college_state": "KA",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 21907,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3855,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.12,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 21907 for OBC STATE \u2192 margin 38.6%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 5,
+        "college_id": 14,
+        "college_name": "Kasturba Medical College Manipal",
+        "college_state": "KA",
+        "college_type": "DEEMED",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 20701,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3638,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 0.57,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 20701 for OBC AIQ \u2192 margin 36.4%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 6,
+        "college_id": 15,
+        "college_name": "JSS Medical College Mysore",
+        "college_state": "KA",
+        "college_type": "DEEMED",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "UR",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 22697,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3944,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 2.26,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 22697 for UR AIQ \u2192 margin 39.4%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 7,
+        "college_id": 25,
+        "college_name": "Sarojini Naidu Medical College Agra",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "VERY_HIGH",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 13938,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.0986,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -3.29,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 13938 for OBC AIQ \u2192 margin 9.9%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 8,
+        "college_id": 30,
+        "college_name": "Gajra Raja Medical College Gwalior",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "VERY_HIGH",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 14397,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.0849,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.51,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 14397 for OBC AIQ \u2192 margin 8.5%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 9,
+        "college_id": 10,
+        "college_name": "Tirunelveli Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "VERY_HIGH",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 14870,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1059,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 2.97,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 14870 for OBC AIQ \u2192 margin 10.6%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 10,
+        "college_id": 27,
+        "college_name": "Netaji Subhash Chandra Bose Medical College Jabalpur",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "OBC",
+        "safety_bucket": "VERY_HIGH",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 12000,
+          "latest_closing_rank": 15879,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1456,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 3.09,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 12000 vs. 2024 R2 closing rank 15879 for OBC AIQ \u2192 margin 14.6%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      }
+    ],
+    "metadata": {
+      "total_eligible_rows": 512,
+      "scored_buckets": 64,
+      "top_n_returned": 10,
+      "query_time_ms": 3.72
+    }
+  },
+  "SC user (rank 25000), MH": {
+    "user_profile": {
+      "neet_rank": 25000,
+      "category": "SC",
+      "domicile_state": "MH",
+      "gender": "FEMALE",
+      "pwd": false,
+      "course": "MBBS"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "college_id": 26,
+        "college_name": "Gandhi Medical College Bhopal",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 35248,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1967,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 0.23,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 35248 for SC AIQ \u2192 margin 19.7%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 2,
+        "college_id": 22,
+        "college_name": "Ganesh Shankar Vidyarthi Memorial Medical College",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 36876,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.2579,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -2.43,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 36876 for SC AIQ \u2192 margin 25.8%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 3,
+        "college_id": 16,
+        "college_name": "Grant Medical College Mumbai",
+        "college_state": "MH",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 36991,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.2679,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.6,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 36991 for SC STATE \u2192 margin 26.8%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 4,
+        "college_id": 23,
+        "college_name": "Motilal Nehru Medical College Allahabad",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 38794,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.315,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -2.54,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 38794 for SC AIQ \u2192 margin 31.5%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 5,
+        "college_id": 28,
+        "college_name": "Mahatma Gandhi Memorial Medical College Indore",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 39203,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.2454,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 1.6,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 39203 for SC AIQ \u2192 margin 24.5%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 6,
+        "college_id": 25,
+        "college_name": "Sarojini Naidu Medical College Agra",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 40372,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3517,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -3.29,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 40372 for SC AIQ \u2192 margin 35.2%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 7,
+        "college_id": 30,
+        "college_name": "Gajra Raja Medical College Gwalior",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 41704,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3419,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.51,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 41704 for SC AIQ \u2192 margin 34.2%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 8,
+        "college_id": 10,
+        "college_name": "Tirunelveli Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 43072,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3569,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 2.97,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 43072 for SC AIQ \u2192 margin 35.7%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 9,
+        "college_id": 17,
+        "college_name": "BJ Medical College Pune",
+        "college_state": "MH",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 45205,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3903,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 1.96,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 45205 for SC STATE \u2192 margin 39.0%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 10,
+        "college_id": 24,
+        "college_name": "BRD Medical College Gorakhpur",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "SC",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 25000,
+          "latest_closing_rank": 45495,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3964,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 1.36,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 25000 vs. 2024 R2 closing rank 45495 for SC AIQ \u2192 margin 39.6%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      }
+    ],
+    "metadata": {
+      "total_eligible_rows": 560,
+      "scored_buckets": 70,
+      "top_n_returned": 10,
+      "query_time_ms": 4.75
+    }
+  },
+  "ST user (rank 60000), MP": {
+    "user_profile": {
+      "neet_rank": 60000,
+      "category": "ST",
+      "domicile_state": "MP",
+      "gender": "MALE",
+      "pwd": false,
+      "course": "MBBS"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "college_id": 25,
+        "college_name": "Sarojini Naidu Medical College Agra",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 76900,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1832,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -3.29,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 76900 for ST AIQ \u2192 margin 18.3%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 2,
+        "college_id": 30,
+        "college_name": "Gajra Raja Medical College Gwalior",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 79436,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1708,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.51,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 79436 for ST AIQ \u2192 margin 17.1%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 3,
+        "college_id": 10,
+        "college_name": "Tirunelveli Medical College",
+        "college_state": "TN",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 82041,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.1897,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 2.97,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 82041 for ST AIQ \u2192 margin 19.0%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 4,
+        "college_id": 24,
+        "college_name": "BRD Medical College Gorakhpur",
+        "college_state": "UP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 86658,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.2395,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 1.36,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 86658 for ST AIQ \u2192 margin 23.9%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 5,
+        "college_id": 27,
+        "college_name": "Netaji Subhash Chandra Bose Medical College Jabalpur",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 87611,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.2257,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 3.09,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 87611 for ST AIQ \u2192 margin 22.6%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 6,
+        "college_id": 26,
+        "college_name": "Gandhi Medical College Bhopal",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 96060,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.293,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 3.0,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 96060 for ST STATE \u2192 margin 29.3%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 7,
+        "college_id": 28,
+        "college_name": "Mahatma Gandhi Memorial Medical College Indore",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "STATE",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 99988,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.3219,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 0.92,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 99988 for ST STATE \u2192 margin 32.2%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 8,
+        "college_id": 29,
+        "college_name": "Shyam Shah Medical College Rewa",
+        "college_state": "MP",
+        "college_type": "GOVT",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 108895,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.4081,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": -0.45,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 108895 for ST AIQ \u2192 margin 40.8%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 9,
+        "college_id": 14,
+        "college_name": "Kasturba Medical College Manipal",
+        "college_state": "KA",
+        "college_type": "DEEMED",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 114214,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.4235,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 0.57,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 114214 for ST AIQ \u2192 margin 42.4%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      },
+      {
+        "rank": 10,
+        "college_id": 15,
+        "college_name": "JSS Medical College Mysore",
+        "college_state": "KA",
+        "college_type": "DEEMED",
+        "course": "MBBS",
+        "quota": "AIQ",
+        "category_applied": "ST",
+        "safety_bucket": "SAFE",
+        "confidence": 1.0,
+        "evidence": {
+          "user_rank": 60000,
+          "latest_closing_rank": 181583,
+          "latest_year": 2024,
+          "latest_round": 2,
+          "weighted_margin": 0.6215,
+          "years_available": [
+            2021,
+            2022,
+            2023,
+            2024
+          ],
+          "n_data_points": 8,
+          "trend": {
+            "label": "stable",
+            "drift_pct_per_year": 2.26,
+            "n_years": 4
+          }
+        },
+        "explanation": "Your rank 60000 vs. 2024 R2 closing rank 181583 for ST AIQ \u2192 margin 62.2%. Trend: closing rank stable across years. Based on 8 data points across 4 years."
+      }
+    ],
+    "metadata": {
+      "total_eligible_rows": 544,
+      "scored_buckets": 68,
+      "top_n_returned": 10,
+      "query_time_ms": 4.79
+    }
+  },
+  "Low rank (rank 200000), UP, UR": {
+    "user_profile": {
+      "neet_rank": 200000,
+      "category": "UR",
+      "domicile_state": "UP",
+      "gender": "MALE",
+      "pwd": false,
+      "course": "MBBS"
+    },
+    "recommendations": [],
+    "metadata": {
+      "total_eligible_rows": 272,
+      "scored_buckets": 34,
+      "top_n_returned": 0,
+      "query_time_ms": 2.24
+    }
+  }
+}

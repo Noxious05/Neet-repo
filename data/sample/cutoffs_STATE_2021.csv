@@ -1,0 +1,261 @@
+year,round,quota,college_name,college_state,college_type,course,category,gender,pwd_flag,domicile_state,seat_type,opening_rank,closing_rank,opening_score,closing_score,source_file
+2021,1,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,EWS,ANY,0,DL,SQ,766,997,,,curated_v1
+2021,1,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,OBC,ANY,0,DL,SQ,1092,1291,,,curated_v1
+2021,1,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,SC,ANY,0,DL,SQ,2336,3740,,,curated_v1
+2021,1,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,ST,ANY,0,DL,SQ,4991,7124,,,curated_v1
+2021,1,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,UR,ANY,0,DL,SQ,696,890,,,curated_v1
+2021,1,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,EWS,ANY,0,DL,SQ,147,209,,,curated_v1
+2021,1,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,OBC,ANY,0,DL,SQ,166,271,,,curated_v1
+2021,1,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,SC,ANY,0,DL,SQ,546,786,,,curated_v1
+2021,1,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,ST,ANY,0,DL,SQ,1271,1498,,,curated_v1
+2021,1,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,UR,ANY,0,DL,SQ,149,187,,,curated_v1
+2021,1,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,EWS,ANY,0,DL,SQ,360,599,,,curated_v1
+2021,1,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,OBC,ANY,0,DL,SQ,623,775,,,curated_v1
+2021,1,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,SC,ANY,0,DL,SQ,1516,2247,,,curated_v1
+2021,1,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,ST,ANY,0,DL,SQ,3277,4280,,,curated_v1
+2021,1,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,UR,ANY,0,DL,SQ,408,535,,,curated_v1
+2021,1,STATE,Bangalore Medical College,KA,GOVT,MBBS,EWS,ANY,0,KA,SQ,6111,7904,,,curated_v1
+2021,1,STATE,Bangalore Medical College,KA,GOVT,MBBS,OBC,ANY,0,KA,SQ,7802,10233,,,curated_v1
+2021,1,STATE,Bangalore Medical College,KA,GOVT,MBBS,SC,ANY,0,KA,SQ,24096,29641,,,curated_v1
+2021,1,STATE,Bangalore Medical College,KA,GOVT,MBBS,ST,ANY,0,KA,SQ,45905,56459,,,curated_v1
+2021,1,STATE,Bangalore Medical College,KA,GOVT,MBBS,UR,ANY,0,KA,SQ,4831,7057,,,curated_v1
+2021,1,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,EWS,ANY,0,KA,SQ,13645,18412,,,curated_v1
+2021,1,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,OBC,ANY,0,KA,SQ,14711,23837,,,curated_v1
+2021,1,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,SC,ANY,0,KA,SQ,54636,69047,,,curated_v1
+2021,1,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,ST,ANY,0,KA,SQ,85722,131518,,,curated_v1
+2021,1,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,UR,ANY,0,KA,SQ,10380,16439,,,curated_v1
+2021,1,STATE,Mysore Medical College,KA,GOVT,MBBS,EWS,ANY,0,KA,SQ,9031,14508,,,curated_v1
+2021,1,STATE,Mysore Medical College,KA,GOVT,MBBS,OBC,ANY,0,KA,SQ,12655,18783,,,curated_v1
+2021,1,STATE,Mysore Medical College,KA,GOVT,MBBS,SC,ANY,0,KA,SQ,42811,54407,,,curated_v1
+2021,1,STATE,Mysore Medical College,KA,GOVT,MBBS,ST,ANY,0,KA,SQ,66730,103634,,,curated_v1
+2021,1,STATE,Mysore Medical College,KA,GOVT,MBBS,UR,ANY,0,KA,SQ,10144,12954,,,curated_v1
+2021,1,STATE,BJ Medical College Pune,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,6028,9667,,,curated_v1
+2021,1,STATE,BJ Medical College Pune,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,9632,12516,,,curated_v1
+2021,1,STATE,BJ Medical College Pune,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,24327,36254,,,curated_v1
+2021,1,STATE,BJ Medical College Pune,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,53927,69055,,,curated_v1
+2021,1,STATE,BJ Medical College Pune,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,5320,8631,,,curated_v1
+2021,1,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,10680,16102,,,curated_v1
+2021,1,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,16433,20846,,,curated_v1
+2021,1,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,39114,60383,,,curated_v1
+2021,1,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,79273,115015,,,curated_v1
+2021,1,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,10577,14376,,,curated_v1
+2021,1,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,5203,8598,,,curated_v1
+2021,1,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,7583,11132,,,curated_v1
+2021,1,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,25805,32244,,,curated_v1
+2021,1,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,46341,61418,,,curated_v1
+2021,1,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,4827,7677,,,curated_v1
+2021,1,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,13635,16571,,,curated_v1
+2021,1,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,17438,21454,,,curated_v1
+2021,1,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,48345,62144,,,curated_v1
+2021,1,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,98463,118370,,,curated_v1
+2021,1,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,10883,14796,,,curated_v1
+2021,1,STATE,Topiwala National Medical College,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,11888,14210,,,curated_v1
+2021,1,STATE,Topiwala National Medical College,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,12060,18398,,,curated_v1
+2021,1,STATE,Topiwala National Medical College,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,37984,53290,,,curated_v1
+2021,1,STATE,Topiwala National Medical College,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,69774,101506,,,curated_v1
+2021,1,STATE,Topiwala National Medical College,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,9000,12688,,,curated_v1
+2021,1,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,9734,14113,,,curated_v1
+2021,1,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,11006,18272,,,curated_v1
+2021,1,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,33562,52927,,,curated_v1
+2021,1,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,81033,100813,,,curated_v1
+2021,1,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,7729,12601,,,curated_v1
+2021,1,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,6910,9977,,,curated_v1
+2021,1,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,9086,12917,,,curated_v1
+2021,1,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,27711,37416,,,curated_v1
+2021,1,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,46703,71268,,,curated_v1
+2021,1,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,7381,8908,,,curated_v1
+2021,1,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,8238,11625,,,curated_v1
+2021,1,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,10614,15050,,,curated_v1
+2021,1,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,31433,43594,,,curated_v1
+2021,1,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,51418,83036,,,curated_v1
+2021,1,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,6391,10379,,,curated_v1
+2021,1,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,11047,15091,,,curated_v1
+2021,1,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,11930,19537,,,curated_v1
+2021,1,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,36946,56592,,,curated_v1
+2021,1,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,88071,107795,,,curated_v1
+2021,1,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,8405,13474,,,curated_v1
+2021,1,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,13443,19266,,,curated_v1
+2021,1,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,19781,24943,,,curated_v1
+2021,1,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,53982,72251,,,curated_v1
+2021,1,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,99791,137621,,,curated_v1
+2021,1,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,12238,17202,,,curated_v1
+2021,1,STATE,Coimbatore Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,12035,16014,,,curated_v1
+2021,1,STATE,Coimbatore Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,16537,20732,,,curated_v1
+2021,1,STATE,Coimbatore Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,39420,60053,,,curated_v1
+2021,1,STATE,Coimbatore Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,83575,114386,,,curated_v1
+2021,1,STATE,Coimbatore Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,11311,14298,,,curated_v1
+2021,1,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,9767,13550,,,curated_v1
+2021,1,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,12436,17543,,,curated_v1
+2021,1,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,39775,50815,,,curated_v1
+2021,1,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,64569,96791,,,curated_v1
+2021,1,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,8886,12098,,,curated_v1
+2021,1,STATE,Madras Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,4743,7260,,,curated_v1
+2021,1,STATE,Madras Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,6751,9400,,,curated_v1
+2021,1,STATE,Madras Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,22471,27228,,,curated_v1
+2021,1,STATE,Madras Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,41438,51863,,,curated_v1
+2021,1,STATE,Madras Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,4605,6482,,,curated_v1
+2021,1,STATE,Stanley Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,8125,10822,,,curated_v1
+2021,1,STATE,Stanley Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,9178,14010,,,curated_v1
+2021,1,STATE,Stanley Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,26575,40582,,,curated_v1
+2021,1,STATE,Stanley Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,54802,77300,,,curated_v1
+2021,1,STATE,Stanley Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,7116,9662,,,curated_v1
+2021,1,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,15534,21319,,,curated_v1
+2021,1,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,23378,27601,,,curated_v1
+2021,1,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,61114,79949,,,curated_v1
+2021,1,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,112027,152284,,,curated_v1
+2021,1,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,13344,19035,,,curated_v1
+2021,1,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,15179,20670,,,curated_v1
+2021,1,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,20498,26760,,,curated_v1
+2021,1,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,50739,77512,,,curated_v1
+2021,1,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,97719,147642,,,curated_v1
+2021,1,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,13245,18455,,,curated_v1
+2021,1,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,10801,17805,,,curated_v1
+2021,1,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,16565,23051,,,curated_v1
+2021,1,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,56203,66769,,,curated_v1
+2021,1,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,101200,127180,,,curated_v1
+2021,1,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,12272,15897,,,curated_v1
+2021,1,STATE,King George Medical University,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,6289,7715,,,curated_v1
+2021,1,STATE,King George Medical University,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,8428,9988,,,curated_v1
+2021,1,STATE,King George Medical University,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,18304,28931,,,curated_v1
+2021,1,STATE,King George Medical University,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,38169,55107,,,curated_v1
+2021,1,STATE,King George Medical University,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,5397,6888,,,curated_v1
+2021,1,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,15451,18565,,,curated_v1
+2021,1,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,16866,24035,,,curated_v1
+2021,1,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,58045,69619,,,curated_v1
+2021,1,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,108686,132609,,,curated_v1
+2021,1,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,12226,16576,,,curated_v1
+2021,1,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,13611,17337,,,curated_v1
+2021,1,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,15724,22445,,,curated_v1
+2021,1,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,42817,65014,,,curated_v1
+2021,1,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,81028,123837,,,curated_v1
+2021,1,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,9475,15479,,,curated_v1
+2021,2,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,EWS,ANY,0,DL,SQ,958,1176,,,curated_v1
+2021,2,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,OBC,ANY,0,DL,SQ,1008,1523,,,curated_v1
+2021,2,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,SC,ANY,0,DL,SQ,2857,4413,,,curated_v1
+2021,2,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,ST,ANY,0,DL,SQ,5987,8407,,,curated_v1
+2021,2,STATE,Lady Hardinge Medical College,DL,GOVT,MBBS,UR,ANY,0,DL,SQ,719,1050,,,curated_v1
+2021,2,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,EWS,ANY,0,DL,SQ,208,247,,,curated_v1
+2021,2,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,OBC,ANY,0,DL,SQ,260,320,,,curated_v1
+2021,2,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,SC,ANY,0,DL,SQ,559,928,,,curated_v1
+2021,2,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,ST,ANY,0,DL,SQ,1378,1767,,,curated_v1
+2021,2,STATE,Maulana Azad Medical College,DL,GOVT,MBBS,UR,ANY,0,DL,SQ,161,220,,,curated_v1
+2021,2,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,EWS,ANY,0,DL,SQ,447,707,,,curated_v1
+2021,2,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,OBC,ANY,0,DL,SQ,575,915,,,curated_v1
+2021,2,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,SC,ANY,0,DL,SQ,1661,2651,,,curated_v1
+2021,2,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,ST,ANY,0,DL,SQ,3728,5050,,,curated_v1
+2021,2,STATE,Vardhman Mahavir Medical College,DL,GOVT,MBBS,UR,ANY,0,DL,SQ,526,631,,,curated_v1
+2021,2,STATE,Bangalore Medical College,KA,GOVT,MBBS,EWS,ANY,0,KA,SQ,6482,9327,,,curated_v1
+2021,2,STATE,Bangalore Medical College,KA,GOVT,MBBS,OBC,ANY,0,KA,SQ,8200,12075,,,curated_v1
+2021,2,STATE,Bangalore Medical College,KA,GOVT,MBBS,SC,ANY,0,KA,SQ,27270,34976,,,curated_v1
+2021,2,STATE,Bangalore Medical College,KA,GOVT,MBBS,ST,ANY,0,KA,SQ,52621,66622,,,curated_v1
+2021,2,STATE,Bangalore Medical College,KA,GOVT,MBBS,UR,ANY,0,KA,SQ,6785,8327,,,curated_v1
+2021,2,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,EWS,ANY,0,KA,SQ,17759,21726,,,curated_v1
+2021,2,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,OBC,ANY,0,KA,SQ,19187,28128,,,curated_v1
+2021,2,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,SC,ANY,0,KA,SQ,51890,81475,,,curated_v1
+2021,2,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,ST,ANY,0,KA,SQ,128053,155191,,,curated_v1
+2021,2,STATE,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,MBBS,UR,ANY,0,KA,SQ,12686,19398,,,curated_v1
+2021,2,STATE,Mysore Medical College,KA,GOVT,MBBS,EWS,ANY,0,KA,SQ,12580,17120,,,curated_v1
+2021,2,STATE,Mysore Medical College,KA,GOVT,MBBS,OBC,ANY,0,KA,SQ,18681,22164,,,curated_v1
+2021,2,STATE,Mysore Medical College,KA,GOVT,MBBS,SC,ANY,0,KA,SQ,47040,64201,,,curated_v1
+2021,2,STATE,Mysore Medical College,KA,GOVT,MBBS,ST,ANY,0,KA,SQ,101299,122288,,,curated_v1
+2021,2,STATE,Mysore Medical College,KA,GOVT,MBBS,UR,ANY,0,KA,SQ,9676,15286,,,curated_v1
+2021,2,STATE,BJ Medical College Pune,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,9429,11408,,,curated_v1
+2021,2,STATE,BJ Medical College Pune,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,12085,14769,,,curated_v1
+2021,2,STATE,BJ Medical College Pune,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,29233,42780,,,curated_v1
+2021,2,STATE,BJ Medical College Pune,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,60762,81485,,,curated_v1
+2021,2,STATE,BJ Medical College Pune,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,7782,10185,,,curated_v1
+2021,2,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,15512,19000,,,curated_v1
+2021,2,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,16799,24598,,,curated_v1
+2021,2,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,44968,71252,,,curated_v1
+2021,2,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,93917,135718,,,curated_v1
+2021,2,STATE,Government Medical College Nagpur,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,13489,16964,,,curated_v1
+2021,2,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,8420,10146,,,curated_v1
+2021,2,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,8170,13135,,,curated_v1
+2021,2,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,30861,38048,,,curated_v1
+2021,2,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,47892,72473,,,curated_v1
+2021,2,STATE,Grant Medical College Mumbai,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,7319,9059,,,curated_v1
+2021,2,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,15612,19554,,,curated_v1
+2021,2,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,18409,25316,,,curated_v1
+2021,2,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,46222,73330,,,curated_v1
+2021,2,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,90823,139676,,,curated_v1
+2021,2,STATE,Lokmanya Tilak Medical College,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,13258,17459,,,curated_v1
+2021,2,STATE,Topiwala National Medical College,MH,GOVT,MBBS,EWS,ANY,0,MH,SQ,10284,16768,,,curated_v1
+2021,2,STATE,Topiwala National Medical College,MH,GOVT,MBBS,OBC,ANY,0,MH,SQ,15749,21709,,,curated_v1
+2021,2,STATE,Topiwala National Medical College,MH,GOVT,MBBS,SC,ANY,0,MH,SQ,41436,62883,,,curated_v1
+2021,2,STATE,Topiwala National Medical College,MH,GOVT,MBBS,ST,ANY,0,MH,SQ,101646,119777,,,curated_v1
+2021,2,STATE,Topiwala National Medical College,MH,GOVT,MBBS,UR,ANY,0,MH,SQ,9083,14972,,,curated_v1
+2021,2,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,12096,16654,,,curated_v1
+2021,2,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,15604,21561,,,curated_v1
+2021,2,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,48162,62453,,,curated_v1
+2021,2,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,83736,118959,,,curated_v1
+2021,2,STATE,Gajra Raja Medical College Gwalior,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,12504,14869,,,curated_v1
+2021,2,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,7831,11773,,,curated_v1
+2021,2,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,12707,15242,,,curated_v1
+2021,2,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,32883,44151,,,curated_v1
+2021,2,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,59237,84097,,,curated_v1
+2021,2,STATE,Gandhi Medical College Bhopal,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,6690,10512,,,curated_v1
+2021,2,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,9075,13717,,,curated_v1
+2021,2,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,13430,17759,,,curated_v1
+2021,2,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,38501,51441,,,curated_v1
+2021,2,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,63579,97983,,,curated_v1
+2021,2,STATE,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,8118,12247,,,curated_v1
+2021,2,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,12801,17807,,,curated_v1
+2021,2,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,14100,23054,,,curated_v1
+2021,2,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,41308,66779,,,curated_v1
+2021,2,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,105751,127198,,,curated_v1
+2021,2,STATE,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,13067,15899,,,curated_v1
+2021,2,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,EWS,ANY,0,MP,SQ,13780,22735,,,curated_v1
+2021,2,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,OBC,ANY,0,MP,SQ,18429,29433,,,curated_v1
+2021,2,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,SC,ANY,0,MP,SQ,60019,85256,,,curated_v1
+2021,2,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,ST,ANY,0,MP,SQ,136480,162393,,,curated_v1
+2021,2,STATE,Shyam Shah Medical College Rewa,MP,GOVT,MBBS,UR,ANY,0,MP,SQ,13930,20299,,,curated_v1
+2021,2,STATE,Coimbatore Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,13429,18896,,,curated_v1
+2021,2,STATE,Coimbatore Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,19939,24464,,,curated_v1
+2021,2,STATE,Coimbatore Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,60056,70862,,,curated_v1
+2021,2,STATE,Coimbatore Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,91290,134976,,,curated_v1
+2021,2,STATE,Coimbatore Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,12023,16872,,,curated_v1
+2021,2,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,12914,15989,,,curated_v1
+2021,2,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,12869,20701,,,curated_v1
+2021,2,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,49193,59962,,,curated_v1
+2021,2,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,75491,114214,,,curated_v1
+2021,2,STATE,Government Kilpauk Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,11605,14276,,,curated_v1
+2021,2,STATE,Madras Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,5321,8567,,,curated_v1
+2021,2,STATE,Madras Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,8084,11092,,,curated_v1
+2021,2,STATE,Madras Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,24361,32129,,,curated_v1
+2021,2,STATE,Madras Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,41847,61199,,,curated_v1
+2021,2,STATE,Madras Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,4913,7649,,,curated_v1
+2021,2,STATE,Stanley Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,8735,12770,,,curated_v1
+2021,2,STATE,Stanley Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,12726,16532,,,curated_v1
+2021,2,STATE,Stanley Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,33572,47887,,,curated_v1
+2021,2,STATE,Stanley Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,58491,91214,,,curated_v1
+2021,2,STATE,Stanley Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,6923,11401,,,curated_v1
+2021,2,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,EWS,ANY,0,TN,SQ,16273,25157,,,curated_v1
+2021,2,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,OBC,ANY,0,TN,SQ,22487,32569,,,curated_v1
+2021,2,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,SC,ANY,0,TN,SQ,74443,94339,,,curated_v1
+2021,2,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,ST,ANY,0,TN,SQ,135912,179695,,,curated_v1
+2021,2,STATE,Tirunelveli Medical College,TN,GOVT,MBBS,UR,ANY,0,TN,SQ,15797,22461,,,curated_v1
+2021,2,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,19957,24390,,,curated_v1
+2021,2,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,19592,31577,,,curated_v1
+2021,2,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,65093,91464,,,curated_v1
+2021,2,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,135182,174218,,,curated_v1
+2021,2,STATE,BRD Medical College Gorakhpur,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,17175,21777,,,curated_v1
+2021,2,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,15640,21010,,,curated_v1
+2021,2,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,21225,27200,,,curated_v1
+2021,2,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,58766,78788,,,curated_v1
+2021,2,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,96440,150072,,,curated_v1
+2021,2,STATE,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,14895,18759,,,curated_v1
+2021,2,STATE,King George Medical University,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,6188,9103,,,curated_v1
+2021,2,STATE,King George Medical University,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,8446,11786,,,curated_v1
+2021,2,STATE,King George Medical University,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,22765,34138,,,curated_v1
+2021,2,STATE,King George Medical University,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,43045,65026,,,curated_v1
+2021,2,STATE,King George Medical University,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,6018,8128,,,curated_v1
+2021,2,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,14236,21907,,,curated_v1
+2021,2,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,23850,28361,,,curated_v1
+2021,2,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,55886,82151,,,curated_v1
+2021,2,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,119154,156479,,,curated_v1
+2021,2,STATE,Motilal Nehru Medical College Allahabad,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,14070,19559,,,curated_v1
+2021,2,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,EWS,ANY,0,UP,SQ,12562,20457,,,curated_v1
+2021,2,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,OBC,ANY,0,UP,SQ,19227,26485,,,curated_v1
+2021,2,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,SC,ANY,0,UP,SQ,51578,76717,,,curated_v1
+2021,2,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,ST,ANY,0,UP,SQ,117479,146128,,,curated_v1
+2021,2,STATE,Sarojini Naidu Medical College Agra,UP,GOVT,MBBS,UR,ANY,0,UP,SQ,14903,18266,,,curated_v1

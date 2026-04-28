@@ -1,0 +1,64 @@
+{
+  "tables": {
+    "colleges": [
+      "id",
+      "name",
+      "state",
+      "type",
+      "established_year",
+      "is_women_only"
+    ],
+    "courses": [
+      "id",
+      "name"
+    ],
+    "cutoffs": [
+      "id",
+      "year",
+      "round",
+      "quota",
+      "college_id",
+      "course_id",
+      "category",
+      "gender",
+      "pwd_flag",
+      "domicile_state",
+      "seat_type",
+      "opening_rank",
+      "closing_rank",
+      "opening_score",
+      "closing_score",
+      "source_file",
+      "created_at"
+    ]
+  },
+  "summary": {
+    "colleges_total": 30,
+    "cutoffs_total": 2240,
+    "states_covered": [
+      "DL",
+      "KA",
+      "MH",
+      "MP",
+      "TN",
+      "UP"
+    ],
+    "years_covered": [
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "categories_covered": [
+      "EWS",
+      "OBC",
+      "SC",
+      "ST",
+      "UR"
+    ],
+    "rows_by_quota": {
+      "AIQ": 1200,
+      "STATE": 1040
+    }
+  }
+}

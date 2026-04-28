@@ -1,0 +1,31 @@
+id,name,state,type,established_year,is_women_only
+1,AIIMS New Delhi,DL,AIIMS,1956,0
+3,Lady Hardinge Medical College,DL,GOVT,1916,1
+2,Maulana Azad Medical College,DL,GOVT,1958,0
+4,Vardhman Mahavir Medical College,DL,GOVT,2001,0
+11,Bangalore Medical College,KA,GOVT,1955,0
+15,JSS Medical College Mysore,KA,DEEMED,1984,0
+13,Karnataka Institute of Medical Sciences Hubli,KA,GOVT,1957,0
+14,Kasturba Medical College Manipal,KA,DEEMED,1953,0
+12,Mysore Medical College,KA,GOVT,1924,0
+5,AFMC Pune,MH,AFMC,1948,0
+17,BJ Medical College Pune,MH,GOVT,1878,0
+19,Government Medical College Nagpur,MH,GOVT,1947,0
+16,Grant Medical College Mumbai,MH,GOVT,1845,0
+20,Lokmanya Tilak Medical College,MH,GOVT,1964,0
+18,Topiwala National Medical College,MH,GOVT,1921,0
+30,Gajra Raja Medical College Gwalior,MP,GOVT,1946,0
+26,Gandhi Medical College Bhopal,MP,GOVT,1955,0
+28,Mahatma Gandhi Memorial Medical College Indore,MP,GOVT,1948,0
+27,Netaji Subhash Chandra Bose Medical College Jabalpur,MP,GOVT,1955,0
+29,Shyam Shah Medical College Rewa,MP,GOVT,1963,0
+9,Coimbatore Medical College,TN,GOVT,1966,0
+8,Government Kilpauk Medical College,TN,GOVT,1960,0
+6,Madras Medical College,TN,GOVT,1835,0
+7,Stanley Medical College,TN,GOVT,1938,0
+10,Tirunelveli Medical College,TN,GOVT,1965,0
+24,BRD Medical College Gorakhpur,UP,GOVT,1969,0
+22,Ganesh Shankar Vidyarthi Memorial Medical College,UP,GOVT,1956,0
+21,King George Medical University,UP,GOVT,1911,0
+23,Motilal Nehru Medical College Allahabad,UP,GOVT,1961,0
+25,Sarojini Naidu Medical College Agra,UP,GOVT,1854,0
